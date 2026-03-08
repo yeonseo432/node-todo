@@ -1,26 +1,27 @@
 [
   {
-    "content": "저장하기",
+    "id": 1,
+    "content": "으아아",
     "isFinished": true
   },
   {
-    "content": "공부하기",
+    "id": 3,
+    "content": "밥 먹기",
     "isFinished": false
   },
   {
-    "content": "출발하기",
+    "id": 4,
+    "content": "세탁",
+    "isFinished": false
+  },
+  {
+    "id": 5,
+    "content": "설거지",
+    "isFinished": false
+  },
+  {
+    "id": 6,
+    "content": "자러가기",
     "isFinished": true
-  },
-  {
-    "content": "도착하기",
-    "isFinished": false
-  },
-  {
-    "content": "제출하기",
-    "isFinished": false
-  },
-  {
-    "content": "망했다",
-    "isFinished": false
   }
 ]
