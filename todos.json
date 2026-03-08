@@ -1,10 +1,26 @@
 [
   {
-    "id": 1,
-    "name": "설거지"
+    "content": "저장하기",
+    "isFinished": true
   },
   {
-    "id": 2,
-    "name": "빨래"
+    "content": "공부하기",
+    "isFinished": false
+  },
+  {
+    "content": "출발하기",
+    "isFinished": true
+  },
+  {
+    "content": "도착하기",
+    "isFinished": false
+  },
+  {
+    "content": "제출하기",
+    "isFinished": false
+  },
+  {
+    "content": "망했다",
+    "isFinished": false
   }
 ]
